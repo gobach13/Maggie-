@@ -1,0 +1,40 @@
+body {
+    font-family: arial;
+    text-align: center;
+    padding: 15px;
+    color: #f1f1f1;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #fdd835;
+    text-shadow: 1px 1px 2px #000;
+  }
+  
+  .dog-box {
+    background: #1b5e20;
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 450px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px #000;
+    border: 2px solid #2e7d32;
+  }
+  
+  .box img {
+    width: 100%;
+    max-width: 380px;
+    border-radius: 8px;
+    border: 3px solid #c8e6c9;
+    margin-bottom: 15px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  strong {
+    color: #fdd835;
+  }
